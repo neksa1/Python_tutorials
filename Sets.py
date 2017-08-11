@@ -2,7 +2,7 @@
 
 # values that are unordered and have no duplicate
 
-# making empty set
+# create empty set
 new_set = set()
 
 # sets
