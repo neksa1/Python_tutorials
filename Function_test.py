@@ -12,4 +12,4 @@ def days_in_month(year, month):
         return 29
     return month_days[month]
 
-print (days_in_month(2200, 2))
+print (days_in_month(2024, 2))
